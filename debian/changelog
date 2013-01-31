@@ -1,3 +1,12 @@
+kdepimlibs (4:4.9.99-0r1) UNRELEASED; urgency=low
+
+  * New upstream from git KDE/4.10 branch revsion 5b2abab.
+  * New package libakonadi-socialutils4.
+  * Updated symbols file.
+  * Drop patches dont_verify_akonadi_id.diff and 03_hide_akonadi_progressbar.diff already applied upstream.
+
+ -- Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Wed, 30 Jan 2013 22:22:09 +0100
+
 kdepimlibs (4:4.9.5-0r2) UNRELEASED; urgency=low
 
   * New upstream release.

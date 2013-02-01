@@ -5,12 +5,6 @@ kdepimlibs (4:4.9.99-0r1) UNRELEASED; urgency=low
   * Updated symbols file.
   * Drop patches dont_verify_akonadi_id.diff and 03_hide_akonadi_progressbar.diff already applied upstream.
 
- -- Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Wed, 30 Jan 2013 22:22:09 +0100
-
-kdepimlibs (4:4.9.5-0r2) UNRELEASED; urgency=low
-
-  * New upstream release.
-
   [ Lisandro Damián Nicanor Pérez meyer ]
   * Add myself to Uploaders.
   * Confirm symbols files with 4:4.8.4's build logs.
@@ -30,7 +24,7 @@ kdepimlibs (4:4.9.5-0r2) UNRELEASED; urgency=low
   * Update installed files using wildcards.
   * Update symbols.
 
- -- Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Thu, 15 Nov 2012 23:10:43 +0100
+ -- Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Wed, 30 Jan 2013 22:22:09 +0100
 
 kdepimlibs (4:4.8.4-1) unstable; urgency=low
 

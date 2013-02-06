@@ -1,4 +1,4 @@
-kdepimlibs (4:4.9.99-0r1) UNRELEASED; urgency=low
+kdepimlibs (4:4.10.0-0r1) UNRELEASED; urgency=low
 
   * New upstream from git KDE/4.10 branch revsion 5b2abab.
   * New package libakonadi-socialutils4.
@@ -24,7 +24,7 @@ kdepimlibs (4:4.9.99-0r1) UNRELEASED; urgency=low
   * Update installed files using wildcards.
   * Update symbols.
 
- -- Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Wed, 30 Jan 2013 22:22:09 +0100
+ -- Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Wed, 06 Feb 2013 01:00:09 +0100
 
 kdepimlibs (4:4.8.4-1) unstable; urgency=low
 

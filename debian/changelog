@@ -3,7 +3,10 @@ kdepimlibs (4:4.10.0-0r1) UNRELEASED; urgency=low
   * New upstream from git KDE/4.10 branch revsion 5b2abab.
   * New package libakonadi-socialutils4.
   * Updated symbols file.
-  * Drop patches dont_verify_akonadi_id.diff and 03_hide_akonadi_progressbar.diff already applied upstream.
+  * Remove:
+    - dont_verify_akonadi_id.diff
+    - 03_hide_akonadi_progressbar.diff
+    which are already applied upstream and not needed with KMail 2.
 
   [ Lisandro Damián Nicanor Pérez meyer ]
   * Add myself to Uploaders.

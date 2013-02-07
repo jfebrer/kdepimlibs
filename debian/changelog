@@ -4,6 +4,7 @@ kdepimlibs (4:4.10.0-0r0) UNRELEASED; urgency=low
   * Update patches:
     - drop 03_hide_akonadi_progressbar.diff, applied upstream.
     - refresh dont_verify_akonadi_id.diff, to apply cleanly.
+  * New package libakonadi-socialutils4.
 
   [ Lisandro Damián Nicanor Pérez meyer ]
   * Add myself to Uploaders.
